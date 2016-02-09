@@ -1,0 +1,1 @@
+# NoScript-Arabic-Locale
